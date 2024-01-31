@@ -1,0 +1,7 @@
+
+body {
+    /* background-image: url("./images/A9.png"); */
+    background: linear-gradient(50deg, #5f81ee, #5f2c82);
+    overflow-y: scroll;
+    height: max-content;
+}
